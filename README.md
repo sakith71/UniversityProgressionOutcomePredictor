@@ -37,9 +37,6 @@ Here's how the project is organized:
    ```bash
    git clone https://github.com/sakith71/UniversityProgressionOutcomePredictor.git
    cd UniversityProgressionOutcomePredictor
-pip install -r requirements.txt
-python src/main.py
-
    ```
 <hr><br>
 This "README.md" file provides a comprehensive guide to your project, from installation and usage to contributing and licensing. Adjust the placeholders with specific details related to your project, such as the GitHub repository URL and any special acknowledgements. Let me know if you need further customization or additional sections!
